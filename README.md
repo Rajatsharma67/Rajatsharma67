@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajatsharma67
+- 👋 Hi, I’m Rajat Sharma
 - 👀 I’m interested in Python, Data Science, Artificial Intelligence, Machine Learning, UI Designing, Graphic Designing, Web Development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
